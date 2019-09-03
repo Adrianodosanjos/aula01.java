@@ -2,7 +2,7 @@ package com.unama;
 
 import java.util.Scanner;
 
-public class LetraC { Scanner scanner = new Scanner(System.in);
+public class ex1LetraC { Scanner scanner = new Scanner(System.in);
     public static void main(String[] args)
     {
             double base;

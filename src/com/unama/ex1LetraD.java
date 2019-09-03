@@ -2,7 +2,7 @@ package com.unama;
 
 import java.util.Scanner;
 
-public class LetraD {
+public class ex1LetraD {
     public static void main(String[] args){
         double perimetro;
         double raio;

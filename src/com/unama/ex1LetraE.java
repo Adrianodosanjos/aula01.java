@@ -2,7 +2,7 @@ package com.unama;
 
 import java.util.Scanner;
 
-public class LetraE {
+public class ex1LetraE {
     public static void main(String[] args){
      double totaldevendas;
      double commit;

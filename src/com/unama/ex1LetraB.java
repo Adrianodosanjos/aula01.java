@@ -2,7 +2,7 @@ package com.unama;
 
 import java.util.Scanner;
 
-public class LetraB {
+public class ex1LetraB {
 
     public static void main(String[] args) {
 	int numero;
