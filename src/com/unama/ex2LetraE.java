@@ -2,7 +2,7 @@ package com.unama;
 
 import java.util.Scanner;
 
-public class ex2LetraD {
+public class ex2LetraE {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int a;
