@@ -2,7 +2,7 @@ package com.unama;
 
 import java.util.Scanner;
 
-public class ex2LetraKfaltafazer {
+public class ex2LetraK {
     public static void menu(){
         System.out.println("Selecione o seu cargo (1-6)");
         System.out.println("1. Escriturario(a)");
@@ -54,6 +54,7 @@ public class ex2LetraKfaltafazer {
                     double reajuste;
                     reajuste=(salario*0.5)+salario;
                     System.out.println("Reajuste de 50%, seu salário será de: R$"+reajuste);
+                    System.out.println("==============================================");
                     break;
 
                 case 2:
@@ -64,6 +65,7 @@ public class ex2LetraKfaltafazer {
                     double reajustee;
                     reajustee=(salarioo*0.35)+salarioo;
                     System.out.println("Reajuste de 35%, seu salário será de: R$"+reajustee);
+                    System.out.println("==============================================");
                     break;
 
                 case 3:
@@ -74,6 +76,7 @@ public class ex2LetraKfaltafazer {
                     double reajusteee;
                     reajusteee=(salariooo*0.2)+salariooo;
                     System.out.println("Reajuste de 20%, seu salário será de: R$"+reajusteee);
+                    System.out.println("==============================================");
                     break;
 
                 case 4:
@@ -85,6 +88,7 @@ public class ex2LetraKfaltafazer {
                     double reajusteeee;
                     reajusteeee=(salarioooo*0.1)+salarioooo;
                     System.out.println("Reajuste de 10%, seu salário será de: R$"+reajusteeee);
+                    System.out.println("==============================================");
                     break;
 
                     case 5:
@@ -92,7 +96,7 @@ public class ex2LetraKfaltafazer {
                         System.out.println("Diretor");
                         System.out.println("Seu salário será fixo: R$7000");
                         System.out.println("Você não receberá reaguste!");
-
+                        System.out.println("==============================================");
                     break;
 
 

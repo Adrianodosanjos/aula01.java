@@ -4,7 +4,7 @@ import javafx.scene.paint.Stop;
 
 import java.util.Scanner;
 
-public class ex2LetraHfaltafazer {
+public class ex2LetraH {
     public static void menu(){
         System.out.println("Peso ideal");
         System.out.println("1. Masculino");
@@ -42,7 +42,8 @@ public class ex2LetraHfaltafazer {
                     alturahomem=entrada.nextDouble();
                     double homem;
                     homem=(alturahomem*73)-58;
-                    System.out.println("O seu peso ideal é de"+homem+"Kg");
+                    System.out.println("O seu peso ideal é de "+homem+"Kg");
+                    System.out.println("==============================================");
                     break;
 
                 case 2:
@@ -53,6 +54,7 @@ public class ex2LetraHfaltafazer {
                     double mulher;
                     mulher=(alturamulher*62)-45;
                     System.out.println("O seu peso ideal é de "+mulher+"Kg");
+                    System.out.println("==============================================");
                     break;
 
 
